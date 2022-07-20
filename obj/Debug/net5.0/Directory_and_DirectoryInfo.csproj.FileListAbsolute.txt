@@ -1,0 +1,16 @@
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\Directory_and_DirectoryInfo.exe
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\Directory_and_DirectoryInfo.deps.json
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\Directory_and_DirectoryInfo.runtimeconfig.json
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\Directory_and_DirectoryInfo.runtimeconfig.dev.json
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\Directory_and_DirectoryInfo.dll
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\ref\Directory_and_DirectoryInfo.dll
+D:\Projetos .NET\Directory_and_DirectoryInfo\bin\Debug\net5.0\Directory_and_DirectoryInfo.pdb
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.csproj.AssemblyReference.cache
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.AssemblyInfoInputs.cache
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.AssemblyInfo.cs
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.dll
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\ref\Directory_and_DirectoryInfo.dll
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.pdb
+D:\Projetos .NET\Directory_and_DirectoryInfo\obj\Debug\net5.0\Directory_and_DirectoryInfo.genruntimeconfig.cache
